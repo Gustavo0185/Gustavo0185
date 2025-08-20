@@ -3,7 +3,7 @@
 **`Desenvolvedor .NET`**
 
 
-## Me chamo Gustavo Antunes de Souza, tenho 21 anos e sou de Jundiaí-SP. Sou formado em Análise e Desenvolvimento de Sistemas e curso Defesa Cibernética. Tenho experiência prática com .NET e sou apaixonado por tecnologia, sempre buscando aprender e evoluir.
+### Me chamo Gustavo Antunes de Souza, tenho 21 anos e sou de Jundiaí-SP. Sou formado em Análise e Desenvolvimento de Sistemas e curso Defesa Cibernética. Tenho experiência prática com .NET e sou apaixonado por tecnologia, sempre buscando aprender e evoluir.
 
 
 ---
